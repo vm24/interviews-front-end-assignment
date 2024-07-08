@@ -1,36 +1,46 @@
-# Server of RecipeBook
+🍽️ Xtream Assignment
+Welcome to the Xtream Assignment! This repository contains both the frontend and backend of the application.
 
-This project is a simple Express server that uses JSON Server for rapid API prototyping and Multer for handling file
-uploads. It provides a RESTful API for managing recipes, including creating new recipes and fetching existing ones.
+🌐 Live Demo
+Experience the application live:
 
-## Getting Started
+👉 Visit the Live Site : https://xtream-assignment.i-saeed.com/
 
-These instructions will get you the project up and running on your local machine for development and testing
-purposes.
+🛠️ Local Development Setup
+Follow these steps to run the project locally.
 
-### Prerequisites
+Frontend
+Navigate to the frontend folder:
 
-You need to have Node.js and npm installed on your machine.
-
-### Installing
-
-Install the project dependencies:
+```bash
+cd frontend
+```
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-### Running the Server
+Build the project:
+```bash
+npm run build
+```
 
-To start the server, run the following command:
+Start the frontend server:
+
+```bash
+npm run start
+```
+
+Backend
+Open a new terminal and navigate to the root of the project.
+
+Start the backend server:
 
 ```bash
 npm start
 ```
 
-The server will start on `http://localhost:8080`.
-
-## API Specification
-
-The file [RecibeBook](./openapi.yaml) contains the API specification in OpenAPI format.
-You can view it and try using the [Swagger Editor](https://editor.swagger.io/).
+🚀 Quick Start
+Open your browser and go to http://localhost:3000 to access the frontend.
+The frontend will communicate with the backend running on http://localhost:8080.
