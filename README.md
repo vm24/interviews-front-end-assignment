@@ -1,6 +1,6 @@
 🍽️ Xtream Assignment
 
-Welcome to the Xtream Assignment! This repository contains both the frontend and backend of the application.
+Welcome to RecipeBook assignment! This repository contains both the frontend and backend of the application.
 
 🌐 Live Demo
 Experience the application live:
