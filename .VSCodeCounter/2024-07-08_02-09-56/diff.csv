@@ -1,0 +1,15 @@
+"filename", "language", "TypeScript JSX", "JSON", "CSS", "comment", "blank", "total"
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\add-recipe\addrecipe.module.css", "CSS", 0, 0, 4, 0, 0, 4
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\add-recipe\page.tsx", "TypeScript JSX", 179, 0, 0, 2, 26, 207
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\MainHeader.tsx", "TypeScript JSX", 37, 0, 0, 0, 2, 39
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\SideMenu.tsx", "TypeScript JSX", -33, 0, 0, 0, -1, -34
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\WelcomeTransition.tsx", "TypeScript JSX", -30, 0, 0, 0, -6, -36
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\panel\Nav.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 1
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\panel\Side.tsx", "TypeScript JSX", 50, 0, 0, 0, 6, 56
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\layout.tsx", "TypeScript JSX", -1, 0, 0, 0, 0, -1
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\recipes\[recipeId]\page.tsx", "TypeScript JSX", 105, 0, 0, 36, 15, 156
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\recipes\[recipeId]\recipeDetails.module.css", "CSS", 0, 0, 4, 0, 0, 4
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\recipes\page.tsx", "TypeScript JSX", 38, 0, 0, 2, 1, 41
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\package-lock.json", "JSON", 0, 102, 0, 0, 0, 102
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\package.json", "JSON", 0, 1, 0, 0, 0, 1
+"Total", "-", 345, 103, 8, 40, 44, 540

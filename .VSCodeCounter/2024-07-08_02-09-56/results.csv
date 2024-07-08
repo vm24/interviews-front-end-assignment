@@ -1,0 +1,35 @@
+"filename", "language", "JavaScript", "JSON", "Markdown", "JSON with Comments", "YAML", "TypeScript", "XML", "TypeScript JSX", "CSS", "comment", "blank", "total"
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\README.md", "Markdown", 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 15, 37
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\db.json", "JSON", 0, 630, 0, 0, 0, 0, 0, 0, 0, 0, 1, 631
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\.eslintrc.json", "JSON", 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\README.md", "Markdown", 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 14, 37
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\add-recipe\addrecipe.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\add-recipe\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 179, 0, 2, 26, 207
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\Footer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 24, 0, 0, 4, 28
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\Hero.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 91, 0, 5, 5, 101
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\HeroPhoto.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 58, 0, 2, 3, 63
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\MainHeader.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 79, 0, 2, 10, 91
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\MusicPlayer.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 44, 0, 0, 6, 50
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\SideMenu.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 264, 0, 1, 26, 291
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\panel\Nav.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\components\panel\Side.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 50, 0, 0, 6, 56
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\globals.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 13, 61, 7, 81
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 31, 0, 0, 4, 35
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 2, 20
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\recipes\[recipeId]\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 105, 0, 36, 15, 156
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\recipes\[recipeId]\recipeDetails.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\recipes\page.tsx", "TypeScript JSX", 0, 0, 0, 0, 0, 0, 0, 194, 0, 6, 25, 225
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\app\recipes\recipes.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\next.config.mjs", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 15
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\package-lock.json", "JSON", 0, 5479, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5480
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\package.json", "JSON", 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 1, 33
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\postcss.config.mjs", "JavaScript", 6, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 9
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\public\next.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\public\vercel.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\tailwind.config.ts", "TypeScript", 0, 0, 0, 0, 0, 21, 0, 0, 0, 0, 2, 23
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\frontend\tsconfig.json", "JSON with Comments", 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 1, 27
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\main.js", "JavaScript", 51, 0, 0, 0, 0, 0, 0, 0, 0, 9, 16, 76
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\openapi.yaml", "YAML", 0, 0, 0, 0, 262, 0, 0, 0, 0, 0, 14, 276
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\package-lock.json", "JSON", 0, 1352, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1353
+"c:\Users\Saeed\ZZ-RealTime-Projects\interviews-front-end-assignment-main\package.json", "JSON", 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 1, 17
+"Total", "-", 69, 7512, 45, 26, 262, 21, 2, 1137, 25, 126, 212, 9437
