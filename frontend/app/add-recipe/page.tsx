@@ -104,7 +104,7 @@ const AddRecipePage = () => {
         formData.append('image', selectedImage);
 
         try {
-            const response = await fetch('http://192.168.1.53:8080/recipes', {
+            const response = await fetch('http://127.0.0.1:8080/recipes', {
                 method: 'POST',
                 body: formData,
             });

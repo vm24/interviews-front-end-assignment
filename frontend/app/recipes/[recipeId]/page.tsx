@@ -28,30 +28,30 @@ const RecipeDetailsPage = ({ params }: any) => {
     const fetchData = async () => {
       try {
         // Fetching cuisines
-        const cuisineRes = await fetch('http://192.168.1.53:8080/cuisines');
+        const cuisineRes = await fetch('http://127.0.0.1:8080/cuisines');
         const cuisineData = await cuisineRes.json();
         const cuisineMap = cuisineData.reduce((acc: any, item: any) => ({ ...acc, [item.id]: item.name }), {});
         setCuisines(cuisineMap);
 
         // Fetching difficulties
-        const difficultyRes = await fetch('http://192.168.1.53:8080/difficulties');
+        const difficultyRes = await fetch('http://127.0.0.1:8080/difficulties');
         const difficultyData = await difficultyRes.json();
         const difficultyMap = difficultyData.reduce((acc: any, item: any) => ({ ...acc, [item.id]: item.name }), {});
         setDifficulties(difficultyMap);
 
         // Fetching diets
-        const dietRes = await fetch('http://192.168.1.53:8080/diets');
+        const dietRes = await fetch('http://127.0.0.1:8080/diets');
         const dietData = await dietRes.json();
         const dietMap = dietData.reduce((acc: any, item: any) => ({ ...acc, [item.id]: item.name }), {});
         setDiets(dietMap);
 
         // Fetching specific recipe details
-        const recipeRes = await fetch(`http://192.168.1.53:8080/recipes/${recipeId}`);
+        const recipeRes = await fetch(`http://127.0.0.1:8080/recipes/${recipeId}`);
         const recipeData = await recipeRes.json();
         setRecipe(recipeData);
 
         // Fetching comments
-        const commentRes = await fetch(`http://192.168.1.53:8080/comments?recipeId=${recipeId}`);
+        const commentRes = await fetch(`http://127.0.0.1:8080/comments?recipeId=${recipeId}`);
         const commentData = await commentRes.json();
         setComments(commentData);
         calculateAverageRating(commentData);
@@ -78,7 +78,7 @@ const RecipeDetailsPage = ({ params }: any) => {
   const submitComment = async () => {
     setIsSubmitting(true);
     try {
-      const response = await fetch(`http://192.168.1.53:8080/recipes/${recipeId}/comments`, {
+      const response = await fetch(`http://127.0.0.1:8080/recipes/${recipeId}/comments`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -123,7 +123,7 @@ const RecipeDetailsPage = ({ params }: any) => {
 
                   <div className="md:col-span-1">
                     
-                    <img src={`http://192.168.1.53:8080${recipe.image}`} alt={recipe.name} className="w-full h-auto rounded-xl shadow-lg p-2" />
+                    <img src={`http://127.0.0.1:8080${recipe.image}`} alt={recipe.name} className="w-full h-auto rounded-xl shadow-lg p-2" />
                     <button onClick={() => router.back()} className="px-4 w-full py-2 mt-4 mb-2 rounded-xl border border-neutral-300 bg-[#FDA403] hover:bg-orange-400 hover:translate-y-0.5 duration-200 text-gray-700 font-semibold text-md  hover:shadow-md">
                       Back
                     </button>

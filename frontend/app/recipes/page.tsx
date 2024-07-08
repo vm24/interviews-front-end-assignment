@@ -42,10 +42,10 @@ const RecipesPage = () => {
         const fetchResources = async () => {
             try {
                 const [recipesRes, cuisinesRes, dietsRes, commentsRes] = await Promise.all([
-                    fetch('http://192.168.1.53:8080/recipes'),
-                    fetch('http://192.168.1.53:8080/cuisines'),
-                    fetch('http://192.168.1.53:8080/diets'),
-                    fetch('http://192.168.1.53:8080/comments')
+                    fetch('http://127.0.0.1:8080/recipes'),
+                    fetch('http://127.0.0.1:8080/cuisines'),
+                    fetch('http://127.0.0.1:8080/diets'),
+                    fetch('http://127.0.0.1:8080/comments')
                 ]);
 
                 const [recipesData, cuisinesData, dietsData, commentsData] = await Promise.all([
@@ -139,7 +139,7 @@ const RecipesPage = () => {
                             <div className="space-y-4">
                                 {paginatedRecipes.map((recipe: any) => (
                                     <div key={recipe.id} className="flex flex-col md:flex-row items-start bg-white rounded-xl overflow-hidden shadow-lg relative  hover:translate-y-0.5 duration-500">
-                                        <Image className="w-32 h-32 flex-shrink-0 object-cover rounded-lg m-2" src={`http://192.168.1.53:8080${recipe.image}`} alt={recipe.name} quality={100} width={1000} height={1000} />
+                                        <Image className="w-32 h-32 flex-shrink-0 object-cover rounded-lg m-2" src={`http://127.0.0.1:8080${recipe.image}`} alt={recipe.name} quality={100} width={1000} height={1000} />
                                         <div className="flex-grow space-y-2 p-2">
                                             <div className="font-bold text-md sm:text-xl mb-1">{recipe.name}</div>
                                             <div className="flex items-center text-sm">
